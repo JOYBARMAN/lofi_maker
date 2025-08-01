@@ -1,0 +1,7 @@
+cffi==1.17.1
+mutagen==1.47.0
+numpy==2.3.2
+pycparser==2.22
+pydub==0.25.1
+scipy==1.16.1
+soundfile==0.13.1
